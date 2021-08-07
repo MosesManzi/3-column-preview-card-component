@@ -67,9 +67,7 @@ p {
 .container {
     padding: 20px;
 }
-.card {
-    padding: 30px;
-}
+
 .card img {
     margin-bottom: 25px;
 }
@@ -103,7 +101,7 @@ p {
   }
 
   .card {
-      padding: 45px;
+      padding: 40px;
   }
 
   .card p {
